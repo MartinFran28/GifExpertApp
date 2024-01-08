@@ -1,6 +1,6 @@
-# React + Vite
+# GifExpertApp React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es una aplicacion de React + Vite llamada GifExpertApp. Echa con el curso de React del profesor Fernando Herrera.
 
 Currently, two official plugins are available:
 
