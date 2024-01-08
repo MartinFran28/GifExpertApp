@@ -1,6 +1,6 @@
 # GifExpertApp React + Vite
 
-Este es una aplicacion de React + Vite llamada GifExpertApp. Echa con el curso de React del profesor Fernando Herrera.
+Esta es una aplicacion de React + Vite llamada GifExpertApp. Echa con el curso de React del profesor Fernando Herrera.
 
 Currently, two official plugins are available:
 
